@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mysticalcreations",
+  "name": "Mystical Creations",
+  "description": "Custom Mystical Agriculture seeds!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/mystical-creations",
+  "updateUrl": "",
+  "authorList": ["Focamacho"],
+  "credits": "BlakeBr0 for Mystical Agriculture",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
