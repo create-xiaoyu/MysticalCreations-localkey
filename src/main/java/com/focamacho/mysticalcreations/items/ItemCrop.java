@@ -43,7 +43,7 @@ public class ItemCrop extends ItemBlock {
             }
         }
 
-        nameFinal.append(I18n.translateToLocal("item.mysticalcreations.crop.name"));
+        nameFinal.append(I18n.translateToLocal("tile.mysticalcreations.crop.name"));
 
         return nameFinal.toString();
     }
